@@ -7,7 +7,6 @@
 *   Jazmin Zemborain
 *   Luca Dessena Maffucci
 *   Pablo Peralta
-    --
 
 ## 📂 Descripción de los Entregables
 Este repositorio contiene los respaldos comprimidos de los directorios, según los requerimientos del trabajo práctico:

@@ -19,5 +19,5 @@ Este repositorio contiene los respaldos comprimidos de los directorios, según l
 * [backup_dir.tar.gz](https://github.com/user-attachments/files/30173774/backup_dir.tar.gz)
 * 
  (dividido en partes) (dividido mediante el comando `split` en partes) (no se pueden importar los archivos porque github no soporta este tipo de archivos)
-
+LINK DEL DRIVE: https://drive.google.com/drive/folders/1bT-M9fA16Hw9zF0Rs2dU0_F_bef-ACZP?usp=drive_link
 

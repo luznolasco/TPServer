@@ -1,3 +1,4 @@
+
 # TPServer
 # Trabajo Práctico Integrador Grupal
 
@@ -12,8 +13,12 @@
 Este repositorio contiene los respaldos comprimidos de los directorios, según los requerimientos del trabajo práctico:
 
 * : Directorio del usuario root.
-* **`etc.tar.gz`**: Archivos de configuración general del sistema.
-* **`opt.tar.gz`**: Directorio de software opcional.
-* **`www_dir.tar.gz`**: Directorio raíz web.
-* **`backup_dir.tar.gz`**: Directorio de respaldos locales.
-* **`var.tar.gz` (dividido en partes)**: Directorio de datos variables del sistema (dividido mediante el comando `split` en partes de 5MB para facilitar su subida a GitHub: `var_part_aa` hasta `var_part_an`).
+* [root.tar.gz](https://github.com/user-attachments/files/30173760/root.tar.gz)
+* [opt.tar.gz](https://github.com/user-attachments/files/30173770/opt.tar.gz)
+* [www_dir.tar.gz](https://github.com/user-attachments/files/30173771/www_dir.tar.gz)
+* [etc.tar.gz](https://github.com/user-attachments/files/30173768/etc.tar.gz)
+* [backup_dir.tar.gz](https://github.com/user-attachments/files/30173774/backup_dir.tar.gz)
+* 
+ (dividido en partes) (dividido mediante el comando `split` en partes) (no se pueden importar los archivos porque github no soporta este tipo de archivos)
+
+
